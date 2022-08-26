@@ -2,4 +2,4 @@
 <img src="https://media.discordapp.net/attachments/984006575574360124/1012748768044658728/glitch_2022-8-26_18-38-30.gif?width=536&height=536" height="32"/></h1>
 <h3 align="center">Raid-Nuke bots developer. I prefer to use Python to work with projects.</h3>
 
-<h4> TEST </h4>
+<h4> Basically, I publish my old projects, which, as can be seen from the above-mentioned, are destructive bots engaged in the destruction of discord servers. You have nothing to do here if you wanted to see here: </h4>
