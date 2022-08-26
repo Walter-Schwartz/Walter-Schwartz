@@ -4,4 +4,4 @@
 
 <h4 align="center"> Basically, I publish my old projects, which, as can be seen from the above-mentioned, are destructive bots engaged in the destruction of discord servers. Although the bot code is not perfect, it can be useful to people who are interested in or want to do the same activity as me. However, there is nothing for you to do here if you want to see some of the following: </h4>
 
-<h6> <img src="https://i.ibb.co/gWrVh6d/Discord-Emoji.png" height="15">Any third-party content not related to Nuke Bots.</h6>
+<h5> <img src="https://i.ibb.co/gWrVh6d/Discord-Emoji.png" height="18"> ⋄ Any third-party content not related to Nuke Bots.</h5>
